@@ -68,7 +68,7 @@ body {
         right: 20px;
         top: 20%;
         display: none;
-        font-family: barlow-extra-light;
+/*         font-family: barlow-extra-light; */
     }
     #menu-items li {
         color: hsl(213, 9%, 39%);
